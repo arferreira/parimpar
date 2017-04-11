@@ -27,8 +27,13 @@ Basta criar um novo objeto instanciando a classe Parimpar, e perguntar a ela se 
 Ex:
 
 irb:
+
 $: require "parimpar"
+
+
 $: 1.par?
+
+
 $: Este número é ímpar
 
 
